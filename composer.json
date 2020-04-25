@@ -1,0 +1,10 @@
+{
+  "name": "binco/payregister",
+  "type": "igniter-extension",
+  "keywords": ["tastyigniter", "paypal", "stripe", "payment", "gateway", "authorizenet", "mollie"],
+  "require": {
+    "php": ">=7.1",
+    "satispay/gbusiness-api-php-sdk": "~1.2.1"
+  },
+  "minimum-stability": "dev"
+}

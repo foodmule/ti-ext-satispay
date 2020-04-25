@@ -1,0 +1,13 @@
+{
+  "code": "binco.satispay",
+  "name": "SatisPay",
+  "description": "SatisPay Payment",
+  "version": "v0.0.1",
+  "author": "Binco",
+  "icon": {
+    "class": "fa fa-credit-card",
+    "backgroundColor": "#88C425",
+    "color": "#1B2707"
+  },
+  "homepage": "https://github.com/tastyigniter/ti-ext-payregister"
+}
